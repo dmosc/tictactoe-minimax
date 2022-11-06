@@ -1,3 +1,6 @@
+# Implementation 100% based on Geeksforgeeks post:
+# https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/
+
 import math
 
 
